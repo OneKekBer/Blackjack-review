@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blackjack.GameLogic
-build_property.ProjectDir = C:\Users\Ilya\RiderProjects\Blackjack\Blackjack.GameLogic\
+build_property.ProjectDir = C:\programming\projects\Blackjack-review\Blackjack.GameLogic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
